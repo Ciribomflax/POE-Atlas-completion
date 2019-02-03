@@ -11,7 +11,7 @@ maps = {
     Tier9  : ["Ancient City Map","Arena Map","Cemetery Map","Moon Temple Map","Museum Map","Relic Chambers Map","Scriptorium Map","Tropical Island Map","Vault Map","Waste Pool Map","Waterways Map"],
     Tier10 : ["Belfry Map","Coral Ruins Map","Coves Map","Estuary Map","Leyline Map","Pier Map","Pit Map","Plateau Map","Plaza Map","Spider Forest Map"],
     Tier11 : ["Arachnid Tomb Map","Bog Map","Burial Chambers Map","Chateau Map","Crystal Ore Map","Factory Map","Lair Map","Mesa Map","Park Map","Siege Map"],
-    Tier12 : ["Arsenal Map","Castle Ruins Map","Colonnade Map","Defiled Cathedral Map","Ivory Temple Map","Malformation Map","Necropolis Map","Overgrown Shrine Map","Villa Map","Acid Caverns Map","Caldera Map"],
+    Tier12 : ["Arsenal Map","Castle Ruins Map","Colonnade Map","Defiled Cathedral Map","Ivory Temple Map","Malformation Map","Necropolis Map","Overgrown Shrine Map","Villa Map"],
     Tier13 : ["Acid Caverns Map","Caldera Map","Colosseum Map","Core Map","Crimson Temple Map","Dig Map","Racecourse Map","Reef Map","Shrine Map"],
     Tier14 : ["Basilica Map","Carcass Map","Courthouse Map","Dark Forest Map","Palace Map","Sunken City Map","Terrace Map"],
     Tier15 : ["Desert Spring Map","Lava Lake Map","Primordial Blocks Map","Summit Map","Tower Map"],
